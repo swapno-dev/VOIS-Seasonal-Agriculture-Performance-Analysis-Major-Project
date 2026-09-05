@@ -1,0 +1,6 @@
+Programming Language: Python
+Libraries:
+Pandas – data loading, cleaning, and manipulation
+NumPy – numerical computations and array operations
+Matplotlib – data visualization (plots, charts)
+Seaborn – advanced statistical visualizations 		   (heatmaps, boxplots, pairplots)
